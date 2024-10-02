@@ -1,4 +1,4 @@
-# python_pkg_template
+# python_ml_project_template
 
 Some sample text for the website.
 
